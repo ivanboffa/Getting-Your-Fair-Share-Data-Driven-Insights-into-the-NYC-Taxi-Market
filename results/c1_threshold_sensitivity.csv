@@ -1,0 +1,4 @@
+specification,low_cutoff_pct,standard_band_pct,generous_cutoff_pct,mcfadden_r2,aic,hit_rate,airport_no_tip_coef,weekend_no_tip_coef
+base (main),15,15-20,20,0.072,96442,0.743,-1.881 ***,+0.266 ***
+alt 1,10,10-25,25,0.126,106481,0.743,negative ***,positive ***
+alt 2,12,12-22,22,0.076,102529,0.743,negative ***,positive ***
