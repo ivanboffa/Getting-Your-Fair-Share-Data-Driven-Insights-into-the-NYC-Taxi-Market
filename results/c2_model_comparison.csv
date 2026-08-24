@@ -1,0 +1,3 @@
+model,log_likelihood,aic,bic,mcfadden_r2
+Poisson,-8605,17222,17255,0.133
+Negative Binomial,-5430,10873,10912,0.453

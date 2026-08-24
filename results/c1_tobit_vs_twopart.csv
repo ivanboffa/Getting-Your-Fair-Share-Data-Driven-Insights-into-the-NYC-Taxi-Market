@@ -1,0 +1,11 @@
+predictor,tobit_beta,part1_logit_p_tip_gt_0,part2_ols_log_tip_given_tip,sign_agreement
+(Intercept),1.584,3.300,0.681,AGREE
+fare_amount,0.184,0.026,0.015,AGREE
+trip_distance,0.000,-0.001,0.000,AGREE
+trip_duration_min,-0.084,-0.084,0.017,DISAGREE
+airport_pickup,2.813,1.805,0.174,AGREE
+morning_vs_afternoon,-0.457,-0.486,-0.015,AGREE
+evening_vs_afternoon,0.285,0.217,0.066,AGREE
+night_vs_afternoon,-0.083,-0.217,0.075,DISAGREE
+weekend,-0.248,-0.259,-0.036,AGREE
+passenger_count,0.136,0.233,0.000,AGREE

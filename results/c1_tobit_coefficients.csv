@@ -1,0 +1,12 @@
+predictor,coefficient,std_error,z_value,p_value,sig,marginal_effect_on_expected_tip_usd
+(Intercept),1.584,0.037,43.37,<0.001,***,
+fare_amount,0.184,0.001,141.43,<0.001,***,0.17
+trip_distance,0.000,0.001,0.23,0.817,,
+trip_duration_min,-0.084,0.001,-63.39,<0.001,***,-0.08
+airport_pickup,2.813,0.058,48.62,<0.001,***,2.59
+morning_vs_afternoon,-0.457,0.036,-12.71,<0.001,***,-0.42
+evening_vs_afternoon,0.285,0.030,9.44,<0.001,***,
+night_vs_afternoon,-0.083,0.035,-2.37,0.018,*,
+weekend,-0.248,0.027,-9.13,<0.001,***,-0.23
+passenger_count,0.136,0.019,7.13,<0.001,***,0.13
+Log(scale),1.042,0.003,330.09,<0.001,***,

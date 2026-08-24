@@ -1,0 +1,21 @@
+rank,zone_name,zone_labour_force_thousands,observed_avg_all_days,predicted_trips_typical_weekday
+1,Upper West Side North,0.0567,18.14,17.53
+2,Upper West Side South,0.0567,18.29,17.53
+3,Yorkville East,0.0486,17.75,14.61
+4,Yorkville West,0.0486,16.61,14.61
+5,Lenox Hill East,0.0484,16.04,14.53
+6,Lenox Hill West,0.0484,18.18,14.53
+7,Roosevelt Island,0.0484,0.32,14.53
+8,Washington Heights North,0.0445,1.50,13.30
+9,Central Harlem North,0.0440,4.64,13.16
+10,East Chelsea,0.0420,11.00,12.59
+11,Flatiron,0.0420,8.18,12.59
+12,West Chelsea / Hudson Yards,0.0420,6.00,12.59
+13,Washington Heights South,0.0408,2.64,12.24
+14,Alphabet City,0.0402,2.79,12.09
+15,East Village,0.0402,11.18,12.09
+16,Lincoln Square East,0.0402,15.21,12.08
+17,Lincoln Square West,0.0402,11.86,12.08
+18,Clinton East,0.0380,13.68,11.48
+19,Clinton West,0.0380,5.82,11.48
+20,Kips Bay,0.0374,8.57,11.33
